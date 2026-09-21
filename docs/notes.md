@@ -36,3 +36,4 @@ Notes and usage details for agents.
 - add a note about the defaults
 - clarify the setup steps
 - add a note about the defaults
+- clarify the setup steps
